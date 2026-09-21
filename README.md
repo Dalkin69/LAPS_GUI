@@ -36,3 +36,7 @@ To hide the background console window when launching from a shortcut, add `-Wind
 ```powershell
 powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -File .\laps_gui.ps1
 ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
